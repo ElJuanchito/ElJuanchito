@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ElJuanchito-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElJuanchito)
 
 <p align="center">
-  <em>Systems & Computer Engineering student at Universidad del Quindío · Competitive Programmer (ICPC) · Technical Leader specializing in distributed systems, end-to-end software architecture, large-scale system design, DevOps automation, and AI integration.</em>
+  <em>Systems & Computer Engineering student at Universidad del Quindío · Technical Leader & Fullstack Engineer specializing in distributed systems, software architecture, VPS/DevOps automation, and AI integration (RAG).</em>
 </p>
 
 </div>
@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-I am a **Fullstack Engineer & Technical Lead** focused on architecting, designing, and delivering robust, scalable, and high-performance digital products from ideation to production. Combining rigorous computer science foundations, competitive problem solving (ICPC), and practical engineering leadership, my core expertise spans:
+I am a **Fullstack Engineer & Technical Lead** with proven experience delivering software systems from architectural design and project scoping to production deployment. As an independent developer and technical lead, I have engineered complex enterprise solutions and high-throughput platforms:
 
-- **🌐 Distributed Systems & Architecture**: Engineering resilient **Distributed Systems**, worker pool architectures, asynchronous task execution, and applying **System Design principles**, **Hexagonal Architecture (Ports & Adapters)**, **Modular Monoliths**, and **Microservices with Domain-Driven Design (DDD)**.
-- **⚡ Fullstack & Backend Engineering**: Building high-throughput backend services with **Go** and **Java 21 (Spring Boot 3)**, paired with dynamic frontends in **TypeScript**, **Next.js**, **React**, and **Svelte**.
-- **🤖 Applied AI & RAG**: Implementing Retrieval-Augmented Generation (**RAG**), semantic search with **Vector Databases & Embeddings**, and integrating LLM inference pipelines into existing enterprise backend services.
-- **🚢 DevOps & Cloud Infrastructure**: Containerizing workloads with **Docker & Docker Compose**, orchestrating automated **CI/CD pipelines with GitHub Actions**, and managing Linux environments with reverse proxies (Nginx).
-- **📋 Project Formulation & Technical Leadership**: Leading technical scopes, architectural trade-off evaluations, requirements engineering, code reviews, and agile project delivery.
+- **🏛️ Software Architecture & System Design**: Designing end-to-end solutions applying **Hexagonal Architecture (Ports & Adapters)**, **Business Rules Engines**, **Modular Monoliths**, and **Distributed Microservices with Domain-Driven Design (DDD)**.
+- **⚡ Fullstack & Backend Engineering**: Building resilient, high-concurrency backends with **Go** and **Java (Spring Boot 3 / Payara)**, coupled with modern web applications in **TypeScript**, **Next.js**, **React**, and **Svelte**.
+- **🤖 Applied AI & RAG**: Designing Retrieval-Augmented Generation (**RAG**) pipelines, semantic search with **Vector Databases & Embeddings**, and integrating LLMs into enterprise business rule workflows.
+- **🚢 DevOps & Infrastructure Management**: Managing **VPS Linux servers**, containerizing workloads with **Docker & Docker Compose**, and automating continuous integration & deployment pipelines with **GitHub Actions**.
+- **📋 Project Formulation & Technical Leadership**: Leading project scoping, architectural decision-making, requirements engineering, code quality, and delivery under agile methodologies.
 
 ---
 
@@ -35,8 +35,7 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-High_Concurrency-FF4500?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-High_Scalability-0052CC?style=flat-square)
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-4B32C3?style=flat-square)
-![Modular Monolith](https://img.shields.io/badge/Architecture-Modular_Monolith-0052CC?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-DDD-232F3E?style=flat-square)
+![Business Rules Engine](https://img.shields.io/badge/Architecture-Business_Rules_Engine-8A2BE2?style=flat-square)
 ![Project Leadership](https://img.shields.io/badge/Project_Direction-Scrum_%2F_Kanban-008080?style=flat-square)
 
 ### 💻 Languages & Core
@@ -50,12 +49,20 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 
 ### ⚙️ Backend, AI & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Payara / Jakarta EE](https://img.shields.io/badge/Payara_Server-Enterprise_Java-005C8A?style=flat-square)
 ![Gin Gonic](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![RAG & Vector Search](https://img.shields.io/badge/AI-RAG_%26_Vector_Embeddings-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+### 🚢 DevOps, Infrastructure & Databases
+![VPS Administration](https://img.shields.io/badge/VPS_Management-Linux_Servers-333333?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_/_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🌐 Frontend & UI
 ![Next.js](https://img.shields.io/badge/Next.js_15+-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -63,27 +70,18 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🚢 DevOps, Databases & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx_/_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 </div>
 
 ---
 
-## 📌 Featured Projects & Technical Leadership
+## 📌 Featured Experience & Projects
 
 | Project / Role | Description & Architectural Impact | Stack |
 | :--- | :--- | :--- |
+| **Independent Software Developer & Tech Lead** *(6 Months)* | Architected custom enterprise solutions with **Hexagonal Architecture**, incorporating a **Business Rules Engine** and **RAG (AI)**. Managed **VPS infrastructure**, Linux environments, and automated CI/CD deployments with **GitHub Actions**. | `Java` `Payara` `RAG (AI)` `VPS / Linux` `GitHub Actions` |
 | [**Grid Platform & Backend**](https://github.com/ElJuanchito/grid-backend) | Distributed file processing and execution platform. Implements worker queue architecture, concurrent worker pools, and asynchronous pipeline execution. | `Go` `Gin` `PostgreSQL` `Docker` `Distributed Systems` |
 | [**Social Reports & Enterprise Core**](https://github.com/ElJuanchito/social-reports) | Multi-module enterprise backend featuring Modular/Hexagonal design, role-based access control (RBAC), JWT authentication, hybrid persistence, and OpenAPI contracts. | `Java 21` `Spring Boot 3` `Spring Security` `JPA` `MongoDB` |
 | [**Proxy Dashboard & Routing Engine**](https://github.com/ElJuanchito/proxy-dashboard) | High-throughput reverse proxy, traffic load monitoring, latency analytics, and reactive dashboard. | `Go` `PostgreSQL` `TypeScript` `Vite` `Docker` |
-| [**MundoComputo E-Commerce API**](https://github.com/ElJuanchito/mundoComputo) | Production-grade e-commerce backend handling complex transactional flows, inventory control, and server-side rendering. | `Java 21` `Spring Boot 3` `JTE` `Spring Data` `PostgreSQL` |
 
 ---
 
@@ -103,13 +101,12 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 <br>
 
 ### Sobre mí
-Soy **Fullstack Engineer & Technical Lead** especializado en **sistemas distribuidos**, **arquitectura y diseño de sistemas** (System Design), servicios de alta concurrencia, automatización **DevOps**, integración de **Inteligencia Artificial (RAG y bases vectoriales)** y **dirección/formulación de proyectos**.
+Soy **Fullstack Engineer & Technical Lead** con experiencia en diseño de sistemas, arquitecturas empresariales, automatización DevOps, IA aplicada y gestión integral de proyectos.
 
-- **Sistemas Distribuidos & Arquitectura**: Diseño e implementación de sistemas distribuidos, arquitecturas basadas en worker queues, concurrencia avanzada, Arquitectura Hexagonal (Puertos y Adaptadores), Monolito Modular, Arquitectura por Capas y Microservicios con DDD.
-- **Desarrollo Fullstack**: Servicios de alto rendimiento en **Go** y **Java 21 (Spring Boot 3)**, junto con interfaces modernas en **TypeScript**, **Next.js**, **React** y **Svelte**.
-- **IA Aplicada**: Pipelines de Recuperación Aumentada por Generación (RAG), búsqueda semántica sobre bases vectoriales y consumo de modelos en APIs de producción.
-- **DevOps & CI/CD**: Containerización con **Docker / Docker Compose**, integración y despliegue continuo con **GitHub Actions**, administración de servidores Linux y proxies inversos.
-- **Liderazgo y Gestión**: Formulación de requerimientos técnicos, diseño de sistemas, estimación de alcance y entrega de soluciones end-to-end con metodologías ágiles.
+- **Experiencia Profesional Independiente (6 meses)**: Diseño de arquitecturas de software de punta a punta, implementación de **Arquitectura Hexagonal** con **motor de reglas de negocio** y pipeline **RAG (IA)** en **Java y Payara**, además de administración de **servidores VPS**, configuración de entornos Linux y automatización de despliegues continuos con **GitHub Actions**.
+- **Sistemas Distribuidos & Arquitectura**: Diseño de servicios de alta concurrencia, worker pools asíncronos, Monolito Modular y Microservicios con DDD.
+- **Desarrollo Fullstack**: Backend robusto en **Go** y **Java (Spring Boot 3 / Payara)**, con frontends dinámicos en **TypeScript**, **Next.js**, **React** y **Svelte**.
+- **Antecedentes**: Formación rigurosa en ciencias de la computación y antecedentes en semillero de programación competitiva (ICPC / algoritmia).
 
 ---
 
