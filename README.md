@@ -84,8 +84,10 @@ I am a **Backend Engineer** focused on designing scalable, maintainable, and hig
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElJuanchito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElJuanchito&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElJuanchito&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElJuanchito&theme=tokyonight" alt="Top Languages" width="48%" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElJuanchito&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="97%" />
 </div>
 
 ---
