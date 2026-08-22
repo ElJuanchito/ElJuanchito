@@ -19,9 +19,9 @@
 
 I am a **Fullstack Engineer & Technical Lead** with proven experience delivering software systems from architectural design and project scoping to production deployment. As an independent developer and technical lead (Dec 2025 – Jul 2026), I have engineered complex enterprise solutions and high-throughput platforms:
 
-- **🏛️ Software Architecture & System Design**: Designing end-to-end solutions applying **Hexagonal Architecture (Ports & Adapters)**, **Business Rules Engines**, **Modular Monoliths**, and **Distributed Microservices with Domain-Driven Design (DDD)**.
+- **🏛️ Software Architecture & System Design**: Designing end-to-end solutions applying **Hexagonal Architecture (Ports & Adapters)**, **Modular Monoliths**, and **Distributed Microservices with Domain-Driven Design (DDD)**.
 - **⚡ Fullstack & Backend Engineering**: Building resilient, high-concurrency backends with **Go** and **Java (Spring Boot 3 / Payara)**, coupled with modern web applications in **TypeScript**, **Next.js**, **React**, and **Svelte**.
-- **🤖 Applied AI & RAG**: Designing Retrieval-Augmented Generation (**RAG**) pipelines, semantic search with **Vector Databases & Embeddings**, and integrating LLMs into enterprise business rule workflows.
+- **🤖 Applied AI & RAG**: Designing Retrieval-Augmented Generation (**RAG**) pipelines, semantic search with **Vector Databases & Embeddings**, and integrating LLMs into enterprise backend workflows.
 - **🚢 DevOps, IT Infrastructure & Virtualization**: Managing **IT Infrastructure**, **VPS Linux servers**, **Hypervisors & Virtual Machines (VMs)**, containerizing workloads with **Docker & Docker Compose**, orchestrating automated CI/CD pipelines with **GitHub Actions & Jenkins**, Infrastructure as Code (**Terraform**), and **Cloud Computing fundamentals (AWS / GCP)**.
 - **📋 Project Formulation & Technical Leadership**: Leading project scoping, architectural decision-making, requirements engineering, code quality, and delivery under agile methodologies.
 
@@ -35,7 +35,8 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-High_Concurrency-FF4500?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-High_Scalability-0052CC?style=flat-square)
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-4B32C3?style=flat-square)
-![Business Rules Engine](https://img.shields.io/badge/Architecture-Business_Rules_Engine-8A2BE2?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/Architecture-Modular_Monolith-0052CC?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-DDD-232F3E?style=flat-square)
 ![Project Leadership](https://img.shields.io/badge/Project_Direction-Scrum_%2F_Kanban-008080?style=flat-square)
 
 ### 💻 Languages & Core
@@ -83,7 +84,7 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 
 | Project / Role | Description & Architectural Impact | Stack |
 | :--- | :--- | :--- |
-| **Independent Software Developer & Tech Lead** *(Dec 2025 – Jul 2026)* | Architected custom enterprise solutions with **Hexagonal Architecture**, incorporating a **Business Rules Engine** and **RAG (AI)**. Managed **VPS infrastructure**, Linux environments, and automated CI/CD deployments with **GitHub Actions & Jenkins**. | `Java` `Payara` `RAG (AI)` `Jenkins` `GitHub Actions` `VPS` |
+| **Independent Software Developer & Tech Lead** *(Dec 2025 – Jul 2026)* | Architected custom enterprise solutions with **Hexagonal Architecture** and integrated a **RAG (AI)** pipeline. Managed **VPS infrastructure**, Linux environments, and automated CI/CD deployments with **GitHub Actions & Jenkins**. | `Java` `Payara` `RAG (AI)` `Jenkins` `GitHub Actions` `VPS` |
 | [**Grid Platform & Backend**](https://github.com/ElJuanchito/grid-backend) | Distributed file processing and execution platform. Implements worker queue architecture, concurrent worker pools, and asynchronous pipeline execution. | `Go` `Gin` `PostgreSQL` `Docker` `Distributed Systems` |
 | [**Social Reports & Enterprise Core**](https://github.com/ElJuanchito/social-reports) | Multi-module enterprise backend featuring Modular/Hexagonal design, role-based access control (RBAC), JWT authentication, hybrid persistence, and OpenAPI contracts. | `Java 21` `Spring Boot 3` `Spring Security` `JPA` `MongoDB` |
 | [**Proxy Dashboard & Routing Engine**](https://github.com/ElJuanchito/proxy-dashboard) | High-throughput reverse proxy, traffic load monitoring, latency analytics, and reactive dashboard. | `Go` `PostgreSQL` `TypeScript` `Vite` `Docker` |
@@ -108,7 +109,7 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 ### Sobre mí
 Soy **Fullstack Engineer & Technical Lead** con experiencia en diseño de sistemas, arquitecturas empresariales, automatización DevOps / IaC, gestión de infraestructura de TI, IA aplicada y gestión integral de proyectos.
 
-- **Experiencia Profesional Independiente (Diciembre 2025 – Julio 2026)**: Diseño de arquitecturas de software de punta a punta, implementación de **Arquitectura Hexagonal** con **motor de reglas de negocio** y pipeline **RAG (IA)** en **Java y Payara**, además de administración de **servidores VPS**, configuración de entornos Linux y automatización de pipelines CI/CD con **GitHub Actions** y **Jenkins**.
+- **Experiencia Profesional Independiente (Diciembre 2025 – Julio 2026)**: Diseño de arquitecturas de software de punta a punta, implementación de **Arquitectura Hexagonal** con pipeline **RAG (IA)** en **Java y Payara**, además de administración de **servidores VPS**, configuración de entornos Linux y automatización de pipelines CI/CD con **GitHub Actions** y **Jenkins**.
 - **DevOps, Gestión de Infraestructura TI & Virtualización**: Gestión de infraestructura tecnológica, virtualización con **hipervisores y máquinas virtuales (VMs)**, containerización con **Docker / Docker Compose**, pipelines automatizados con **GitHub Actions / Jenkins**, fundamentos Cloud (AWS / GCP), nociones de **Terraform (IaC)**, administración de servidores Linux y proxies inversos (Nginx).
 - **Sistemas Distribuidos & Arquitectura**: Diseño de servicios de alta concurrencia, worker pools asíncronos, Monolito Modular y Microservicios con DDD.
 - **Desarrollo Fullstack**: Backend robusto en **Go** y **Java (Spring Boot 3 / Payara)**, con frontends dinámicos en **TypeScript**, **Next.js**, **React** y **Svelte**.
