@@ -1,14 +1,14 @@
 <div align="center">
 
 # Juan Manuel Perdomo Cárdenas
-### Fullstack Engineer & Technical Lead | Software Architecture & System Design · DevOps · Applied AI (RAG)
+### Fullstack Engineer & Technical Lead | Distributed Systems · Software Architecture & System Design · DevOps · Applied AI (RAG)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-perdomo-cardenas/)
 [![Email](https://img.shields.io/badge/Email-perdomocardenas18%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:perdomocardenas18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ElJuanchito-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElJuanchito)
 
 <p align="center">
-  <em>Systems & Computer Engineering student at Universidad del Quindío · Competitive Programmer (ICPC) · Technical Leader specializing in end-to-end software architecture, large-scale system design, scalable fullstack systems, DevOps automation, and AI integration.</em>
+  <em>Systems & Computer Engineering student at Universidad del Quindío · Competitive Programmer (ICPC) · Technical Leader specializing in distributed systems, end-to-end software architecture, large-scale system design, DevOps automation, and AI integration.</em>
 </p>
 
 </div>
@@ -19,8 +19,8 @@
 
 I am a **Fullstack Engineer & Technical Lead** focused on architecting, designing, and delivering robust, scalable, and high-performance digital products from ideation to production. Combining rigorous computer science foundations, competitive problem solving (ICPC), and practical engineering leadership, my core expertise spans:
 
-- **🏛️ Software Architecture & System Design**: Designing large-scale, high-throughput systems using **System Design principles**, **Hexagonal Architecture (Ports & Adapters)**, **Modular Monoliths**, **Layered / N-Tier Architectures**, and **Microservices with Domain-Driven Design (DDD)**.
-- **⚡ Fullstack & Backend Engineering**: Building resilient backend engines with **Go** and **Java 21 (Spring Boot 3)**, coupled with dynamic frontends in **TypeScript**, **Next.js**, **React**, and **Svelte**.
+- **🌐 Distributed Systems & Architecture**: Engineering resilient **Distributed Systems**, worker pool architectures, asynchronous task execution, and applying **System Design principles**, **Hexagonal Architecture (Ports & Adapters)**, **Modular Monoliths**, and **Microservices with Domain-Driven Design (DDD)**.
+- **⚡ Fullstack & Backend Engineering**: Building high-throughput backend services with **Go** and **Java 21 (Spring Boot 3)**, paired with dynamic frontends in **TypeScript**, **Next.js**, **React**, and **Svelte**.
 - **🤖 Applied AI & RAG**: Implementing Retrieval-Augmented Generation (**RAG**), semantic search with **Vector Databases & Embeddings**, and integrating LLM inference pipelines into existing enterprise backend services.
 - **🚢 DevOps & Cloud Infrastructure**: Containerizing workloads with **Docker & Docker Compose**, orchestrating automated **CI/CD pipelines with GitHub Actions**, and managing Linux environments with reverse proxies (Nginx).
 - **📋 Project Formulation & Technical Leadership**: Leading technical scopes, architectural trade-off evaluations, requirements engineering, code reviews, and agile project delivery.
@@ -31,7 +31,8 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 
 <div align="center">
 
-### 🏛️ Architecture, System Design & Leadership
+### 🌐 Distributed Systems, Architecture & Leadership
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-High_Concurrency-FF4500?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-High_Scalability-0052CC?style=flat-square)
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-Ports_%26_Adapters-4B32C3?style=flat-square)
 ![Modular Monolith](https://img.shields.io/badge/Architecture-Modular_Monolith-0052CC?style=flat-square)
@@ -79,7 +80,7 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 
 | Project / Role | Description & Architectural Impact | Stack |
 | :--- | :--- | :--- |
-| [**Grid Platform & Backend**](https://github.com/ElJuanchito/grid-backend) | Distributed file processing and execution platform. Implements worker queue architecture, concurrent worker pools, and asynchronous pipeline execution. | `Go` `Gin` `PostgreSQL` `Docker` `Microservices` |
+| [**Grid Platform & Backend**](https://github.com/ElJuanchito/grid-backend) | Distributed file processing and execution platform. Implements worker queue architecture, concurrent worker pools, and asynchronous pipeline execution. | `Go` `Gin` `PostgreSQL` `Docker` `Distributed Systems` |
 | [**Social Reports & Enterprise Core**](https://github.com/ElJuanchito/social-reports) | Multi-module enterprise backend featuring Modular/Hexagonal design, role-based access control (RBAC), JWT authentication, hybrid persistence, and OpenAPI contracts. | `Java 21` `Spring Boot 3` `Spring Security` `JPA` `MongoDB` |
 | [**Proxy Dashboard & Routing Engine**](https://github.com/ElJuanchito/proxy-dashboard) | High-throughput reverse proxy, traffic load monitoring, latency analytics, and reactive dashboard. | `Go` `PostgreSQL` `TypeScript` `Vite` `Docker` |
 | [**MundoComputo E-Commerce API**](https://github.com/ElJuanchito/mundoComputo) | Production-grade e-commerce backend handling complex transactional flows, inventory control, and server-side rendering. | `Java 21` `Spring Boot 3` `JTE` `Spring Data` `PostgreSQL` |
@@ -102,9 +103,9 @@ I am a **Fullstack Engineer & Technical Lead** focused on architecting, designin
 <br>
 
 ### Sobre mí
-Soy **Fullstack Engineer & Technical Lead** especializado en **arquitectura y diseño de sistemas** (System Design), desarrollo de servicios de alta concurrencia, automatización **DevOps**, integración de **Inteligencia Artificial (RAG y bases vectoriales)** y **dirección/formulación de proyectos**.
+Soy **Fullstack Engineer & Technical Lead** especializado en **sistemas distribuidos**, **arquitectura y diseño de sistemas** (System Design), servicios de alta concurrencia, automatización **DevOps**, integración de **Inteligencia Artificial (RAG y bases vectoriales)** y **dirección/formulación de proyectos**.
 
-- **Arquitectura & Diseño de Sistemas**: Dominio de Diseño de Sistemas de alta escala, Arquitectura Hexagonal (Puertos y Adaptadores), Monolito Modular, Arquitectura por Capas y Microservicios con enfoque Domain-Driven Design (DDD).
+- **Sistemas Distribuidos & Arquitectura**: Diseño e implementación de sistemas distribuidos, arquitecturas basadas en worker queues, concurrencia avanzada, Arquitectura Hexagonal (Puertos y Adaptadores), Monolito Modular, Arquitectura por Capas y Microservicios con DDD.
 - **Desarrollo Fullstack**: Servicios de alto rendimiento en **Go** y **Java 21 (Spring Boot 3)**, junto con interfaces modernas en **TypeScript**, **Next.js**, **React** y **Svelte**.
 - **IA Aplicada**: Pipelines de Recuperación Aumentada por Generación (RAG), búsqueda semántica sobre bases vectoriales y consumo de modelos en APIs de producción.
 - **DevOps & CI/CD**: Containerización con **Docker / Docker Compose**, integración y despliegue continuo con **GitHub Actions**, administración de servidores Linux y proxies inversos.
