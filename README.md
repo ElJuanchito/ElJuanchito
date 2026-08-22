@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ElJuanchito-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElJuanchito)
 
 <p align="center">
-  <em>Systems & Computer Engineering student at Universidad del Quindío · Technical Leader & Fullstack Engineer specializing in distributed systems, software architecture, VPS/DevOps automation, and AI integration (RAG).</em>
+  <em>Systems & Computer Engineering student at Universidad del Quindío · Technical Leader & Fullstack Engineer specializing in distributed systems, software architecture, VPS/DevOps automation (CI/CD, IaC), and AI integration (RAG).</em>
 </p>
 
 </div>
@@ -22,7 +22,7 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 - **🏛️ Software Architecture & System Design**: Designing end-to-end solutions applying **Hexagonal Architecture (Ports & Adapters)**, **Business Rules Engines**, **Modular Monoliths**, and **Distributed Microservices with Domain-Driven Design (DDD)**.
 - **⚡ Fullstack & Backend Engineering**: Building resilient, high-concurrency backends with **Go** and **Java (Spring Boot 3 / Payara)**, coupled with modern web applications in **TypeScript**, **Next.js**, **React**, and **Svelte**.
 - **🤖 Applied AI & RAG**: Designing Retrieval-Augmented Generation (**RAG**) pipelines, semantic search with **Vector Databases & Embeddings**, and integrating LLMs into enterprise business rule workflows.
-- **🚢 DevOps & Infrastructure Management**: Managing **VPS Linux servers**, containerizing workloads with **Docker & Docker Compose**, and automating continuous integration & deployment pipelines with **GitHub Actions**.
+- **🚢 DevOps, IaC & Infrastructure**: Managing **VPS Linux servers**, containerizing workloads with **Docker & Docker Compose**, orchestrating automated CI/CD pipelines with **GitHub Actions & Jenkins**, and Infrastructure as Code (**Terraform**).
 - **📋 Project Formulation & Technical Leadership**: Leading project scoping, architectural decision-making, requirements engineering, code quality, and delivery under agile methodologies.
 
 ---
@@ -56,9 +56,11 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 ![OpenAPI / Swagger](https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ### 🚢 DevOps, Infrastructure & Databases
-![VPS Administration](https://img.shields.io/badge/VPS_Management-Linux_Servers-333333?style=flat-square&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins_CI/CD-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_IaC-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![VPS Administration](https://img.shields.io/badge/VPS_Management-Linux_Servers-333333?style=flat-square&logo=linux&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx_/_Reverse_Proxy-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -78,7 +80,7 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 
 | Project / Role | Description & Architectural Impact | Stack |
 | :--- | :--- | :--- |
-| **Independent Software Developer & Tech Lead** *(6 Months)* | Architected custom enterprise solutions with **Hexagonal Architecture**, incorporating a **Business Rules Engine** and **RAG (AI)**. Managed **VPS infrastructure**, Linux environments, and automated CI/CD deployments with **GitHub Actions**. | `Java` `Payara` `RAG (AI)` `VPS / Linux` `GitHub Actions` |
+| **Independent Software Developer & Tech Lead** *(6 Months)* | Architected custom enterprise solutions with **Hexagonal Architecture**, incorporating a **Business Rules Engine** and **RAG (AI)**. Managed **VPS infrastructure**, Linux environments, and automated CI/CD deployments with **GitHub Actions & Jenkins**. | `Java` `Payara` `RAG (AI)` `Jenkins` `GitHub Actions` `VPS` |
 | [**Grid Platform & Backend**](https://github.com/ElJuanchito/grid-backend) | Distributed file processing and execution platform. Implements worker queue architecture, concurrent worker pools, and asynchronous pipeline execution. | `Go` `Gin` `PostgreSQL` `Docker` `Distributed Systems` |
 | [**Social Reports & Enterprise Core**](https://github.com/ElJuanchito/social-reports) | Multi-module enterprise backend featuring Modular/Hexagonal design, role-based access control (RBAC), JWT authentication, hybrid persistence, and OpenAPI contracts. | `Java 21` `Spring Boot 3` `Spring Security` `JPA` `MongoDB` |
 | [**Proxy Dashboard & Routing Engine**](https://github.com/ElJuanchito/proxy-dashboard) | High-throughput reverse proxy, traffic load monitoring, latency analytics, and reactive dashboard. | `Go` `PostgreSQL` `TypeScript` `Vite` `Docker` |
@@ -101,9 +103,10 @@ I am a **Fullstack Engineer & Technical Lead** with proven experience delivering
 <br>
 
 ### Sobre mí
-Soy **Fullstack Engineer & Technical Lead** con experiencia en diseño de sistemas, arquitecturas empresariales, automatización DevOps, IA aplicada y gestión integral de proyectos.
+Soy **Fullstack Engineer & Technical Lead** con experiencia en diseño de sistemas, arquitecturas empresariales, automatización DevOps / IaC, IA aplicada y gestión integral de proyectos.
 
-- **Experiencia Profesional Independiente (6 meses)**: Diseño de arquitecturas de software de punta a punta, implementación de **Arquitectura Hexagonal** con **motor de reglas de negocio** y pipeline **RAG (IA)** en **Java y Payara**, además de administración de **servidores VPS**, configuración de entornos Linux y automatización de despliegues continuos con **GitHub Actions**.
+- **Experiencia Profesional Independiente (6 meses)**: Diseño de arquitecturas de software de punta a punta, implementación de **Arquitectura Hexagonal** con **motor de reglas de negocio** y pipeline **RAG (IA)** en **Java y Payara**, además de administración de **servidores VPS**, configuración de entornos Linux y automatización de pipelines CI/CD con **GitHub Actions** y **Jenkins**.
+- **DevOps & Infraestructura**: Containerización con **Docker / Docker Compose**, pipelines automatizados con **GitHub Actions / Jenkins**, nociones de **Terraform (IaC)**, administración de servidores Linux y proxies inversos (Nginx).
 - **Sistemas Distribuidos & Arquitectura**: Diseño de servicios de alta concurrencia, worker pools asíncronos, Monolito Modular y Microservicios con DDD.
 - **Desarrollo Fullstack**: Backend robusto en **Go** y **Java (Spring Boot 3 / Payara)**, con frontends dinámicos en **TypeScript**, **Next.js**, **React** y **Svelte**.
 - **Antecedentes**: Formación rigurosa en ciencias de la computación y antecedentes en semillero de programación competitiva (ICPC / algoritmia).
