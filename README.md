@@ -3,7 +3,7 @@
 # Juan Manuel Perdomo Cárdenas
 ### Fullstack Engineer & Technical Lead | Distributed Systems · Software Architecture & System Design · DevOps · Applied AI (RAG)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-perdomo-cardenas/)
+[![Phone / WhatsApp](https://img.shields.io/badge/WhatsApp-57_3225179118-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573225179118)
 [![Email](https://img.shields.io/badge/Email-perdomocardenas18%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:perdomocardenas18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ElJuanchito-181717?style=flat&logo=github&logoColor=white)](https://github.com/ElJuanchito)
 
